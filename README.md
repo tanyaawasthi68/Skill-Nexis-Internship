@@ -1,4 +1,5 @@
 Titanic Survival Prediction Using Machine Learning 
+
 Importing Libraries 
 In this project, I import essential libraries that play pivotal roles in enhancing data manipulation and visualization capabilities:
 
